@@ -1,7 +1,7 @@
-# Práctica 2 de POO — Regresión lineal en C++
+# Práctica 2 de POO - Regresión lineal en C++
 
 **Autor:** Jorge Córdoba Zota  
-**Asignatura:** Programming Languages and Paradigms · Universidad EAFIT
+**Asignatura:** Lenguajes y Paradigmas de Programación - Universidad EAFIT
 
 El programa implementa una clase de regresión lineal en C++17 con escalado de entradas y entrenamiento por descenso de gradiente. Utiliza la misma clase para estimar ventas de helados a partir de la temperatura y notas de examen a partir de cuatro variables. También mide la memoria que ocupan los modelos y los datos de sus vectores.
 
